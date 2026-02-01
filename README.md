@@ -1,6 +1,3 @@
-# Inflation-Targeting-Causal-Inference
-Causal inference using Generalized Synthetic Control and Monte Carlo simulation
-
 # Inflation Targeting and Inflation Volatility
 
 Causal inference using Generalized Synthetic Control and Monte Carlo simulation.
